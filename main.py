@@ -1,3 +1,4 @@
+from keep_alive import keep_alive
 import os
 import discord
 import sys

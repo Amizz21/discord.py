@@ -1,6 +1,6 @@
+import os
 import discord
 import sys
-import os
 from discord.ext import commands
 from googletrans import Translator
 from discord_slash import SlashCommand, SlashContext
